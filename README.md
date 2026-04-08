@@ -91,7 +91,3 @@ A machine learning project that classifies SMS messages as **Spam** or **Ham (le
 
 Created with ❤️ by **Shubhankar Sarkar**.  
 [GitHub Profile](https://github.com/shubhankar05sarkar)
-
-```bash
-git clone https://github.com/your-username/spam-detection-nlp.git
-cd spam-detection-nlp
